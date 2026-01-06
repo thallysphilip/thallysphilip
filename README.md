@@ -12,8 +12,8 @@ Hi, I'm Thallys! 👋
 
 ## 🌐 Socials
 
-[LinkedIn](www.linkedin.com/in/thallys-machado-074258229)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thallys-machado-074258229)
 ---
 
 
