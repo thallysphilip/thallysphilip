@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🌀 About Me
 
-<!--
-**thallysphilip/thallysphilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Thallys! 👋  
 
-Here are some ideas to get you started:
+💻 Apaixonado por tecnologia e programação, vejo o código como uma forma de resolver problemas reais e criar coisas úteis.  
+📚 Estudante de Sistemas de Informação no Instituto Federal de São Paulo (IFSP), sempre buscando evoluir como pessoa e como desenvolvedor.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Aberto a aprender novas linguagens, frameworks e tecnologias – não fico preso a uma única stack e gosto de experimentar.  
+🧠 Curioso por entender o “porquê” das coisas, escrevendo código limpo, organizado e fácil de manter.  
+
+---
+
+## 🌐 Socials
+
+[LinkedIn](www.linkedin.com/in/thallys-machado-074258229)
+
+---
+
+
